@@ -1,0 +1,6 @@
+MPU-6050    →    Arduino Uno
+---------         -------------
+VCC         →     5V
+GND         →     GND
+SCL         →     A5
+SDA         →     A4
