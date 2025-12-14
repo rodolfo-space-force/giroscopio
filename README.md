@@ -19,7 +19,6 @@ https://youtube.com/shorts/nl1kET7p0yA?si=YtbqkHNL75Do1jj0
 
 | Arquivo | Descrição |
 |--------|-----------|
-| `Attitude_Indicator_Only.py` | Script Python com a interface gráfica do horizonte artificial. Pode ser usado sem Arduino. Permite entrada manual de valores de pitch, roll e heading. |
 | `Arduino_live_att_indicat.py` | Script Python que lê dados reais da porta serial com Arduino e atualiza o horizonte artificial ao vivo. |
 | `MPU_pitch_roll_Pyt_comm.ino` | Código para ser carregado no Arduino. Lê dados do MPU6050, calcula os ângulos de pitch e roll, e envia por serial. 
 
