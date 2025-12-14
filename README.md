@@ -1,12 +1,12 @@
 # giroscopio
-Software com interface gráfica que simula o horizonte artificial de uma aeronave (Giroscópio).
+Horizonte artificial de uma aeronave (Giroscópio).
 
 ---
 
 ##  Visão Geral
 
 
-Contém Uma placa **Arduino** para coleta dados de **inclinação (pitch)** e **rolagem (roll)** a partir de um acelerômetro **MPU6050**, e envia essas informações ao computador via **comunicação serial**.  
+Contém uma placa **Arduino** para coleta dados de **inclinação (pitch)** e **rolagem (roll)** a partir de um acelerômetro **MPU6050**, e envia essas informações ao computador via **comunicação serial**.  
 
 No computador, um script Python, utilizando **Tkinter** e **PySerial**, exibe esses dados em tempo real em uma interface gráfica que simula o horizonte artificial de uma aeronave.
 
