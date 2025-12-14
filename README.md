@@ -13,7 +13,7 @@ No computador, um script Python, utilizando **Tkinter** e **PySerial**, exibe es
 ![Texto alternativo da imagem](02.jpg)
 
 Demonstração no YouTube:  
-https://youtube.com/shorts/nl1kET7p0yA?si=YtbqkHNL75Do1jj0
+[https://youtube.com/shorts/nl1kET7p0yA?si=YtbqkHNL75Do1jj0](https://www.youtube.com/shorts/DRqX0Btrs8Y)
 
 ---
 
