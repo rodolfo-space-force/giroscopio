@@ -10,6 +10,10 @@ Contém Uma placa **Arduino** para coleta dados de **inclinação (pitch)** e **
 
 No computador, um script Python, utilizando **Tkinter** e **PySerial**, exibe esses dados em tempo real em uma interface gráfica que simula o horizonte artificial de uma aeronave.
 
+![Texto alternativo da imagem](01.jpg)
+
+![Texto alternativo da imagem](02.jpg)
+
 Demonstração no YouTube:  
 https://youtube.com/shorts/nl1kET7p0yA?si=YtbqkHNL75Do1jj0
 
