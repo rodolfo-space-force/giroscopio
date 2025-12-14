@@ -67,7 +67,7 @@ Baseado no tutorial da Carbon Aeronautics. [Assista aqui](https://youtu.be/7VW_X
 
 ## Créditos
 
-- Código do Arduino baseado no tutorial da **Carbon Aeronautics**.  
+- Código do Arduino baseado no tutorial da **Carbon Aeronautics** e **Francesco Sessa**
   [Tutorial completo no YouTube](https://youtu.be/7VW_XVbtu9k?si=yDsCyBnuSdUbkwY7)
 
 ---
